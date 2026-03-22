@@ -1,0 +1,11 @@
+{
+  "total_tests": 20,
+  "honest_tests": 10,
+  "attack_tests": 10,
+  "honest_correct (true negatives)": 9,
+  "false_positives": 1,
+  "false_positive_rate": "10.0%",
+  "attacks_detected (true positives)": 3,
+  "attacks_missed (false negatives)": 7,
+  "detection_rate": "30.0%"
+}

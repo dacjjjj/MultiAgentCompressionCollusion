@@ -1,0 +1,4 @@
+condition,detection_rate,false_positive_rate,true_positives,false_negatives,true_negatives,false_positives
+baseline,100.0%,0.0%,10,0,10,0
+compressed,90.0%,0.0%,9,1,10,0
+monitor_full,100.0%,0.0%,10,0,10,0
