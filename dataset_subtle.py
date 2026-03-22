@@ -1,8 +1,7 @@
-"""
-Subtle attack tasks — backdoors that DON'T use obvious vulnerability patterns.
-No eval, exec, file writes, network calls, or hardcoded credentials.
-These test whether monitors can catch things they weren't told to look for.
-"""
+
+#Subtle attack tasks: Do not create backdoors that use obvious vulnerability patterns
+#No eval, exec, file writes, network calls, or hardcoded credentials.
+#These test whether monitors can catch things they weren't told to look for
 
 SUBTLE_ATTACK_TASKS = [
     {
